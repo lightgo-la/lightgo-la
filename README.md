@@ -23,3 +23,4 @@
             /____________/            \____\
 
 🛠️ Grand-Descent by Hands
+ # backward() + nn.Module + cuda()
