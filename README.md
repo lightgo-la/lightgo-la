@@ -1,8 +1,4 @@
 ## Hi there 👋
 
-I give serious tools ridiculous names, then finish them anyway.
-
-`Toybox` · `Icebox` · `Rubik's Cube` · `Fancy Calculator` · `Mario Pipe Lab`
-
-Every one of those is a real repository. The naming is the only unserious part.
-
+I treat pipelines like scores and models like players, then rehearse them in CI until they work.
+Symphony · Oboe_A · AI---Agent-x-5 · OpenCV · DL_AAT · Symbolic
